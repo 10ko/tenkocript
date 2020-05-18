@@ -4,7 +4,7 @@ This is an artifact from when I was a little teenager programmer.
 
 One of my first "programs", committed almost without modifications (I needed to change few lines to make it compile on MacOs).
 
-It's an elementary implementation of the [Cesar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher), written in "C++".
+It's an elementary implementation of the [Caesar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher), written in "C++".
 
 I love the innocence transparing from the source code, the Italian variable names, the dubious FAQ and instructions.
 
