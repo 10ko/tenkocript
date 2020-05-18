@@ -8,7 +8,7 @@ It's an elementary implementation of the [Cesar Cipher](https://en.wikipedia.org
 
 I love the innocence transparing from the source code, the Italian variable names, the dubious FAQ and instructions.
 
-Thanks to @atzenigor for preserving this gem all these years.
+Thanks to [@atzenigor](https://github.com/atzenigor) for preserving this gem all these years.
 
 ## Compile and run on MacOS
 
